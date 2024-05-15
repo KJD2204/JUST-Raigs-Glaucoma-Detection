@@ -24,12 +24,6 @@ To address this issue, we have developed a deep learning model that can accurate
  10. Large cup to disc ratio (LC)
 - High accuracy and generalization performance achieved through ensemble techniques and transfer learning.
 
-## Getting Started
-
-To get started with this project, follow these steps:
-
-1. Clone the repository:
-
 ## Results
 
-Our model achieved state-of-the-art performance on the Justified Referral in AI Glaucoma Screening (JustRAIGS) challenge dataset, with a sensitivity and specificity of over 95 percent for glaucoma detection. These results demonstrate the potential of our approach to significantly improve the efficiency and reliability of glaucoma screening protocols worldwide.
+Our model achieved state-of-the-art performance on the Justified Referral in AI Glaucoma Screening (JustRAIGS) challenge dataset, with a sensitivity and specificity of over 80 percent for glaucoma detection and other features. These results demonstrate the potential of our approach to significantly improve the efficiency and reliability of glaucoma screening protocols worldwide.
